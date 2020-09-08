@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project revision="refs/heads/drm-intel-next" path="drm-intel" name="drm-intel" remote="freedesktop" />
+  <project path="drm-intel" name="drm-intel-crosvm " remote="github" />
 </manifest>
